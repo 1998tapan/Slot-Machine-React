@@ -1,0 +1,12 @@
+.slot-container {
+    border: 2px solid #fff;
+    margin-bottom: 1em;
+    padding: 1em 2em;
+    text-align: center;
+    background-color: #023047;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #ffb703;
+}
